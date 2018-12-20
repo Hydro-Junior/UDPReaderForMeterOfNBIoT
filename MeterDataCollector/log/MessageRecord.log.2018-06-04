@@ -1,0 +1,49 @@
+INFO 2018-06-04 09:17:28,312: com.xjy.messageHandler.MessageHandler 
+ 处理线程pool-1-thread-1收到原报文
+68910091006888120000000000008C60070100003DC100141731C31823141731C31880594400000000002C16 
+
+INFO 2018-06-04 09:17:28,328: com.xjy.messageHandler.MessageHandler 
+ {"address":"0000000012","readValue":4459.8,"reportPeriod":"ONCE_A_MONTH","reportTime":"Mar 31, 2018 5:14:00 PM","meterClock":"Mar 31, 2018 5:14:23 PM","sumCheckResult":true} 
+
+INFO 2018-06-04 09:17:29,977: com.xjy.messageHandler.MessageHandler 
+ 处理线程pool-1-thread-1收到原报文
+68910091006888120000000000008C60070100003DC100141731C31823141731C31880594400000000002C16 
+
+INFO 2018-06-04 09:17:29,978: com.xjy.messageHandler.MessageHandler 
+ {"address":"0000000012","readValue":4459.8,"reportPeriod":"ONCE_A_MONTH","reportTime":"Mar 31, 2018 5:14:00 PM","meterClock":"Mar 31, 2018 5:14:23 PM","sumCheckResult":true} 
+
+INFO 2018-06-04 09:17:32,999: com.xjy.messageHandler.MessageHandler 
+ 处理线程pool-1-thread-1收到原报文
+68910091006888120000000000008C60070100003DC100141731C31823141731C31880594400000000002C16 
+
+INFO 2018-06-04 09:17:33,001: com.xjy.messageHandler.MessageHandler 
+ {"address":"0000000012","readValue":4459.8,"reportPeriod":"ONCE_A_MONTH","reportTime":"Mar 31, 2018 5:14:00 PM","meterClock":"Mar 31, 2018 5:14:23 PM","sumCheckResult":true} 
+
+INFO 2018-06-04 09:17:35,970: com.xjy.messageHandler.MessageHandler 
+ 处理线程pool-1-thread-1收到原报文
+68910091006888120000000000008C60070100003DC100141731C31823141731C31880594400000000002C16 
+
+INFO 2018-06-04 09:17:35,971: com.xjy.messageHandler.MessageHandler 
+ {"address":"0000000012","readValue":4459.8,"reportPeriod":"ONCE_A_MONTH","reportTime":"Mar 31, 2018 5:14:00 PM","meterClock":"Mar 31, 2018 5:14:23 PM","sumCheckResult":true} 
+
+INFO 2018-06-04 09:17:38,994: com.xjy.messageHandler.MessageHandler 
+ 处理线程pool-1-thread-1收到原报文
+68910091006888120000000000008C60070100003DC100141731C31823141731C31880594400000000002C16 
+
+INFO 2018-06-04 09:17:38,996: com.xjy.messageHandler.MessageHandler 
+ {"address":"0000000012","readValue":4459.8,"reportPeriod":"ONCE_A_MONTH","reportTime":"Mar 31, 2018 5:14:00 PM","meterClock":"Mar 31, 2018 5:14:23 PM","sumCheckResult":true} 
+
+INFO 2018-06-04 09:17:41,968: com.xjy.messageHandler.MessageHandler 
+ 处理线程pool-1-thread-1收到原报文
+68910091006888120000000000008C60070100003DC100141731C31823141731C31880594400000000002C16 
+
+INFO 2018-06-04 09:17:41,970: com.xjy.messageHandler.MessageHandler 
+ {"address":"0000000012","readValue":4459.8,"reportPeriod":"ONCE_A_MONTH","reportTime":"Mar 31, 2018 5:14:00 PM","meterClock":"Mar 31, 2018 5:14:23 PM","sumCheckResult":true} 
+
+INFO 2018-06-04 09:17:45,004: com.xjy.messageHandler.MessageHandler 
+ 处理线程pool-1-thread-1收到原报文
+68910091006888120000000000008C60070100003DC100141731C31823141731C31880594400000000002C16 
+
+INFO 2018-06-04 09:17:45,004: com.xjy.messageHandler.MessageHandler 
+ {"address":"0000000012","readValue":4459.8,"reportPeriod":"ONCE_A_MONTH","reportTime":"Mar 31, 2018 5:14:00 PM","meterClock":"Mar 31, 2018 5:14:23 PM","sumCheckResult":true} 
+
